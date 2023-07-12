@@ -53,7 +53,7 @@ JOIN products p ON alls.productsku = p.sku
 
 Answer:
 
-### Question 5: compute the percentage of visitors to the site that actually makes a purchase
+### Question 5: Compute the percentage of visitors to the site that actually makes a purchase
 
 SQL Queries:
 ```sql
