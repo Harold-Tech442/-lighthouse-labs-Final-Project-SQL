@@ -35,3 +35,11 @@ GROUP BY productsku
 HAVING COUNT(*) > 1;
 ```
 
+###Step 3: 
+Data Cleansing: I identified some missing data in the city column of the all_sessions table.
+```sql
+SELECT 
+	city
+FROM all_sessions
+WHERE city = '(not set)'
+```
