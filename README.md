@@ -13,4 +13,6 @@ I found out that the majority of the company’s sales where from North America 
 The data was quite “dirty”, at least from my novice point of view. Lots of cleaning, converting of data types, missing values, etc. It was a tough, arduous, exciting, and huge learning process wrapped in one. Fun times!
 
 ## Future Goals
-Future goals, three words: practice, practice, practice.
+Regarding data cleaning specifically, my future goal would be to think of ways to create stored procedures to streamline tasks and eliminate redundant processes.
+
+In general, my goal would be three words: practice, practice, practice.
