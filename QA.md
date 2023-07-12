@@ -1,5 +1,5 @@
 What are your risk areas? Identify and describe them.
-
+My risk areas would include the validity of the data. Specifically, if the system was setup to capture the right and relevant data. Other risks include having the right data type, and duplicate entries.
 Step 1: 
 Data Profiling: I will determine the data types, null values, and unique values in each table.
 ```sql
