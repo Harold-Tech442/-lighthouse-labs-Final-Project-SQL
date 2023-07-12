@@ -29,7 +29,9 @@ WHERE productsku IS NULL;
 ```
 ```sql
 -- Check for duplicate data in the sales_report table
-SELECT productsku, COUNT(*)
+SELECT
+	productsku,
+	COUNT(*)
 FROM sales_report
 GROUP BY productsku
 HAVING COUNT(*) > 1;
