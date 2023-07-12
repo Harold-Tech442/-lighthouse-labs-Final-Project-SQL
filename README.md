@@ -10,7 +10,7 @@ The process involved extracting the data from csv files, cleaning it by removing
 I found out that the majority of the company’s sales where from North America and Europe. The company might want to come up with strategies to increase traffic, hence sales, in other parts of the world.
 
 ## Challenges 
-The data was quite “dirty”, at least from my novice point of view. Lots of cleaning, converting of data types, missing values, etc. It was a tough, arduous, exciting, and huge learning process wrapped in one.
+The data was quite “dirty”, at least from my novice point of view. Lots of cleaning, converting of data types, missing values, etc. It was a tough, arduous, exciting, and huge learning process wrapped in one. Fun times!
 
 ## Future Goals
 Future goals, three words: practice, practice, practice.
