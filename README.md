@@ -1,7 +1,8 @@
 # Final-Project-Transforming-and-Analyzing-Data-with-SQL
 
 ## Project/Goals
-(fill in your description and goals here)
+The goal of this project is to explore the activities of an online store, analysis it, and answer questions regarding its revenue and performance from various parts of the world.
+
 
 ## Process
 ### (your step 1)
