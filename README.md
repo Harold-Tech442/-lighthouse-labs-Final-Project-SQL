@@ -13,4 +13,4 @@ The process involved extracting the data from csv file, cleaning it by removing 
 I found out that the majority of the company’s sales where from North America and Europe. The company might want to come up with strategies to increase traffic, hence sales, in other parts of the world.
 
 ## Future Goals
-I would have done more job on the data cleaning front.
+I would have done more job on the data cleaning front but I ran out of time.
