@@ -3,9 +3,9 @@
 My risk areas would include the validity of the data. Specifically, if the system was setup to capture the right and relevant data. Other risks include having the right data type, and duplicate entries.
 
 # QA Process:
-# Describe your QA process and include the SQL queries used to execute it.
+## Describe your QA process and include the SQL queries used to execute it.
 
-# Step 1: 
+### Step 1: 
 Data Profiling: I will determine the data types, null values, and unique values in each table.
 ```sql
 -- Get column data types and nullability for the products table 
